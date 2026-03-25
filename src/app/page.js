@@ -18,8 +18,8 @@ export default function Home() {
     intro: "I hold a Bachelor's degree in Information Technology and currently work as a ETL Data Tester at Capgemini. I am a caring and grounded individual with strong family values and a deep emotional connection with my loved ones. I believe in maintaining a balanced life with positivity, respect, and meaningful relationships at its core.",
     location: "Hanumangadhi Sareya Ward No 6, Gopalganj, Bihar - 841428",
     photo: "/images/profile-photo.jpg",
-    ctaPrimary: "View Full Profile",
-    ctaSecondary: "Download Biodata"
+    ctaPrimary: "View Profile",
+    ctaSecondary: "Download"
   };
 
   const contactData = {
@@ -50,7 +50,7 @@ export default function Home() {
   ];
 
   const familyDetails = [
-    { label: "Father's Name", value: "Wakil Mahato, Govt Employee" },
+    { label: "Father's Name", value: "Wakil Mahato, Principal, Government School" },
     { label: "Mother's Name", value: "Geeta Devi, HouseWife" },
     { label: "Sister", value: "Manisha Kumari (Working in PwC, Married 6th Feb 2025)" },
     { label: "Brother", value: "Abhishek Kumar, Preparing for Govt Jobs" },

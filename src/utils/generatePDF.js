@@ -168,7 +168,7 @@ export const generateBiodataPDF = async () => {
   doc.text('Family Details', 20, familyY + 15);
   
   const familyDetails = [
-    ['Father', 'Wakil Mahato (Government Employee)'],
+    ['Father', 'Wakil Mahato (Principal, Government School)'],
     ['Mother', 'Geeta Devi (Homemaker)'],
     ['Brother', 'Abhishek Kumar (Unmarried)'],
     ['Sister', 'Manisha Kumari (Working in PwC, Married)'],

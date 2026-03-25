@@ -66,7 +66,7 @@ export default function Hero({ hero, contact }) {
               </button>
 
               <a
-                href="#contact"
+                href="#contact Details"
                 className="inline-flex items-center gap-2 rounded-full border-2 border-rosegold/30 bg-gradient-to-r from-blush/70 to-ivory/70 px-8 py-4 text-base font-semibold text-ink shadow-lg transition-all duration-300 hover:from-blush hover:to-ivory hover:border-rosegold/50 hover:shadow-xl active:scale-[0.98]"
               >
                 <PhoneCall className="w-5 h-5" />

@@ -26,7 +26,7 @@ function TextCard({ title, content, delay = 0 }) {
 
 export default function AboutSection({ aboutMe, partnerPreference }) {
   return (
-    <section className="section-padding bg-gradient-to-b from-transparent via-white/30 to-transparent">
+    <section id="profile" className="section-padding bg-gradient-to-b from-transparent via-white/30 to-transparent">
       <div className="section-shell">
         <SectionDivider
           title="About & Partner Preference"
