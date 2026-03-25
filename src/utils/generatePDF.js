@@ -90,7 +90,7 @@ export const generateBiodataPDF = async () => {
   
   const personalDetails = [
     ['Date of Birth', '23 September 1998'],
-    ['Age', '26 Years'],
+    ['Age', '27 Years'],
     ['Height', "5'10\""],
     ['Weight', '68 kg'],
     ['Religion', 'Hindu'],
@@ -171,7 +171,7 @@ export const generateBiodataPDF = async () => {
     ['Father', 'Wakil Mahato (Government Employee)'],
     ['Mother', 'Geeta Devi (Homemaker)'],
     ['Brother', 'Abhishek Kumar (Unmarried)'],
-    ['Sister', 'Manisha Kumari (Married)'],
+    ['Sister', 'Manisha Kumari (Working in PwC, Married)'],
     ['Family Type', 'Small Family'],
     ['Family Values', 'Traditional & Modern'],
     ['Family Status', 'Middle Class']

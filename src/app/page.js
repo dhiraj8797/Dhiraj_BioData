@@ -39,11 +39,11 @@ export default function Home() {
 
   const personalDetails = [
     { label: "Date of Birth", value: "23-Sep-1998" },
-    { label: "Age", value: "26 years" },
+    { label: "Age", value: "27 years" },
     { label: "Height", value: "5'10\"" },
     { label: "Marital Status", value: "Never Married" },
     { label: "Religion", value: "Hindu" },
-    { label: "Community", value: "Other" },
+    { label: "Community", value: "Nonia" },
     { label: "Mother Tongue", value: "Hindi" },
     { label: "Email ID", value: "kumar.dhirajqa@gmail.com" },
     { label: "Contact No.", value: "+91-7022918586" }
@@ -52,7 +52,7 @@ export default function Home() {
   const familyDetails = [
     { label: "Father's Name", value: "Wakil Mahato, Govt Employee" },
     { label: "Mother's Name", value: "Geeta Devi, HouseWife" },
-    { label: "Sister", value: "Manisha Kumari (Married 6th Feb 2025)" },
+    { label: "Sister", value: "Manisha Kumari (Working in PwC, Married 6th Feb 2025)" },
     { label: "Brother", value: "Abhishek Kumar, Preparing for Govt Jobs" },
     { label: "Family Type", value: "Small Family" },
     { label: "Family Values", value: "Traditional and Modern Both" }
