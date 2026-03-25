@@ -32,7 +32,7 @@ export const generateBiodataPDF = async () => {
   doc.setFontSize(14);
   doc.setTextColor(255, 255, 255);
   doc.setFont('helvetica', 'normal');
-  doc.text('Associate Consultant at Capgemini', 105, 45, { align: 'center' });
+  doc.text('ETL Data Tester at Capgemini', 105, 45, { align: 'center' });
   
   // Contact info in header
   doc.setFontSize(10);

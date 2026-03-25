@@ -14,8 +14,8 @@ import Footer from "../components/Footer";
 export default function Home() {
   const heroData = {
     title: "Dhiraj Kumar",
-    subtitle: "Associate Consultant at Capgemini",
-    intro: "I hold a Bachelor's degree in Information Technology and currently work as a Software Tester at Capgemini. I am a caring and grounded individual with strong family values and a deep emotional connection with my loved ones. I believe in maintaining a balanced life with positivity, respect, and meaningful relationships at its core.",
+    subtitle: "ETL Data Tester at Capgemini",
+    intro: "I hold a Bachelor's degree in Information Technology and currently work as a ETL Data Tester at Capgemini. I am a caring and grounded individual with strong family values and a deep emotional connection with my loved ones. I believe in maintaining a balanced life with positivity, respect, and meaningful relationships at its core.",
     location: "Hanumangadhi Sareya Ward No 6, Gopalganj, Bihar - 841428",
     photo: "/images/profile-photo.jpg",
     ctaPrimary: "View Full Profile",
